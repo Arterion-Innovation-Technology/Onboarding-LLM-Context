@@ -1,7 +1,7 @@
 =====START OF COMMENTS=====
 Everything enclosed in this comment section must not be use as a context to answer user questions. Follow the instructions given on this comment.
 1. If you see a texts enclosed by "[" and ends with "]" treat it as single unit.
-
+=====END OF COMMENTS=====
 
 ARTERION PHILIPPINES
 
@@ -822,3 +822,4 @@ Carrying or possessing live firearms or weapons on during any events by, sponsor
 Engaging in discriminatory or abusive behavior, including sexual harassment.
 
 At the sole discretion of the Executive Director or the Human Resource Department, the staff may be terminated immediately or be given a period of notice.
+
